@@ -1,0 +1,9 @@
+body {
+  color: white;
+  background-color: hsl(220, 20%, 20%);
+  font-family: sans-serif;
+}
+
+a {
+  color: white;
+}
